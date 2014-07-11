@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Nextdoor": {
+            "applicationId": "jF3MjzUKzF0ag0b0m821ZCqfuQVIwMhI160QQRog", 
+            "masterKey": "nrIjDc4xtfIbVA67VaBbEBbnkWEMzeG4WbVm6k76"
+        }, 
+        "_default": {
+            "link": "Nextdoor"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.18"
+    }
+}
