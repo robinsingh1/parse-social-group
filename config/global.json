@@ -4,6 +4,26 @@
             "applicationId": "jF3MjzUKzF0ag0b0m821ZCqfuQVIwMhI160QQRog", 
             "masterKey": "nrIjDc4xtfIbVA67VaBbEBbnkWEMzeG4WbVm6k76"
         }, 
+        "couponjoy": {
+            "applicationId": "ghz8BjCvtACtZtGSYz8VPFLqkT39GaR4smBWTByW",
+            "masterKey": "Thh38IhBUDTnyvkrcjGCgCKK3mdFjdnfdjnJ7GMZ"
+        }, 
+        "autoworld": {
+            "applicationId": "5S48Oz6TTNvV0UUf6ixtlIEiVGcIKryiXf30VSP4",
+            "masterKey": "tjQZP0OsClIp64uuhYG3dGGo2jiG1XNnVD0mYYZH"
+        }, 
+        "momscircle": {
+            "applicationId": "07k1kbbrVyxAPpPOZhIQPFt2hjvXojssuIfCLJ0z",
+            "masterKey": "id8fuzNvYjchLGR2ioQ0i1D1ASZ4j6oWSVCxNVaE"
+        }, 
+        "ridejoy": {
+            "applicationId": "f0FR3SHXq91yUXxa8QJ3wgRTC24cKdNtpwYERYdO",
+            "masterKey": "oYVd1VuqPgjmWEb0kVY35eMUktIh9KqonBj8ltCj"
+        }, 
+        "rentjoy": {
+            "applicationId": "3WfTr4aMHXgMlKfLCDeux8N3YakRCMiwBF63nQWW",
+            "masterKey": "XQWudL7qD2bm6GsxWBHmhnmYV2zqTPUBWiAv3agx"
+        }, 
         "_default": {
             "link": "Nextdoor"
         }
